@@ -1,0 +1,45 @@
+html {
+    width: 100%;
+    height: 100%; 
+}
+
+body {
+    background-color: rgb(250, 206, 62);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+#container {
+    background-color: rgb(38, 39, 66);
+    width: 600px;
+    height: 800px;
+    margin: 0 auto;
+    align-content: center;
+    vertical-align: middle;
+    border-radius: 15px;
+}
+#header {
+    width: 500px;
+    height: 120px;
+    line-height: 120px;
+    text-align: right;
+    padding: 50px;
+    background-color: rgb(54, 56, 95);
+    color: white;
+    font-size: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#window {
+    background-color: rgb(225, 229, 210);
+    padding-right: 5px;
+    color: rgb(76, 76, 70);
+    border: 5px solid rgb(241, 242, 242);
+}
+#keypad {
+    background-color: rgb(38, 39, 66);
+    
+}
